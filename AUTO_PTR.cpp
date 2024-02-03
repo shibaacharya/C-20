@@ -91,6 +91,7 @@ int main()
         std::cout << "C++20";
     #else
         std::cout << "Unknown or Unsupported";
-    #endif   
+    #endif
+    std::cout << std::endl;   
     return 0;
 }
